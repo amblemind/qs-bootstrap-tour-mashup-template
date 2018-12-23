@@ -1,0 +1,17 @@
+{
+	"type": "mashup-template",
+	"name": "BootstrapTourTemplate",
+	"description": "A Simple Bootstrap Template that includes Bootstrap Tour features.",
+	"version": "1.0.0",
+	"author": "Darren Alderman",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, mashup",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x",
+		"j-query": "=1.11.0",
+		"bootstrap": "=3.2.0",
+		"bootstrap-tour": "=0.12.x"
+	}
+}

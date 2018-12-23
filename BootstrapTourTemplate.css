@@ -1,0 +1,63 @@
+/* ----- INSTRUCTION / CONTROL FORMATTING ----- */
+.btn {
+	margin-top: 1em; 
+}
+
+ul {
+	padding-left: 30px;
+	cursor: pointer;
+}
+
+/* ----- VISUALIZATION CONTAINER FORMATTING ----- */
+.qvplaceholder {
+	padding: 10px;
+}
+
+.qvobject-tall {
+	height: 800px;
+}
+
+.qvobject-med {
+	height: 400px;
+}
+
+.qvobject-short {
+	height: 200px;
+}
+
+/* ----- ERROR FORMATTING ----- */
+#popup {
+	background-color: #7f8c8d;
+	color: #FFFFFF;
+	position: fixed;
+	padding: 10px;
+	margin: 10px;
+	bottom: 0;
+	right: 0;
+	display: none;
+	border-radius: 5px;
+}
+
+.close {
+	cursor: pointer;
+	background: 0 0;
+	border: 0;
+	float: right;
+	font-size: 21px;
+	font-weight: 700;
+	line-height: 1;
+	color: #000;
+	text-shadow: 0 1px 0 #fff;
+	opacity: .2;
+	position: absolute;
+	right: 9px;
+	top: 7px;
+}
+
+.close:hover {
+	opacity: .5;
+}
+
+#popupText {
+	margin-right: 23px;
+}
