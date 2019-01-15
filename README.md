@@ -9,7 +9,7 @@ A simple Bootstrap 3 based Qlik Sense mashup template with Bootstrap Tour instal
 ### 1. Install
 Download the [BootstrapTourTemplate](https://github.com/amblemind/qs-bootstrap-tour-mashup-template).
 
-Unzip the file in your Extensions directory: `*/Qlik/Sense/Extenstions`
+Unzip the file in your Extensions directory: `*/Qlik/Sense/Extensions`
 
 ### 2. Create
 In the Qlik Sense `\dev-hub`, create a new mashup using the `BootstrapTourTemplate`. 
@@ -26,6 +26,6 @@ Format the visualizations html using the Bootstrap 3 grid system: [https://getbo
 ### 4. Modify
 Modify the Tour.js template to match your visualization ids and tour needs using the Bootstrap Tour API: [https://bootstraptour.com/api/](https://bootstraptour.com/api/)
 
-![](https://raw.githubusercontent.com/amblemind/qs-bootstrap-tour-mashup-template/master/docs/images/Visualization%20Format%20with%20Bootstrap.PNG)
+![](https://raw.githubusercontent.com/amblemind/qs-bootstrap-tour-mashup-template/master/docs/images/Tour%20Code%20Example.PNG)
 
 Then enjoy your Qlik Sense Mashup Tour!
